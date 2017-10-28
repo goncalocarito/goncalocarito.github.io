@@ -1,0 +1,22 @@
+body {
+    background-color: #80ffe5;
+}
+
+.outer {
+ 	position: relative;
+}
+
+#inner {
+	position: absolute;
+  	top: 50%; left: 40%;
+  	transform: translate(-30%,-50%);
+}
+
+h1 {
+	text-align: center;
+    font-family: verdana;
+}
+
+h3 {
+    font-family: verdana;
+}
