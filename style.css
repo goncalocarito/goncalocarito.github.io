@@ -1,5 +1,5 @@
 body {
-    background-color: #80ffe5;
+    background-color: #04B4AE;
 }
 
 .outer {
@@ -15,8 +15,10 @@ body {
 h1 {
 	text-align: center;
     font-family: verdana;
+    color: #E6E6E6;
 }
 
 h3 {
     font-family: verdana;
+    color: #E6E6E6;
 }
