@@ -2,11 +2,11 @@ body {
     background-color: #04B4AE;
 }
 
-.outer {
+#outer {
  	position: relative;
 }
 
-.inner {
+#inner {
 	position: absolute;
   	top: 40%; left: 40%;
   	transform: translate(-30%,-50%);
