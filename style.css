@@ -38,6 +38,5 @@ img {
     padding-top: 50px;
     margin: auto;
     opacity: 0.85;
-    filter: alpha(opacity=85); /* For IE8 and earlier */
 }
 
