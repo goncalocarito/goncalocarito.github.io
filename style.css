@@ -26,13 +26,14 @@ img {
   max-width: 20%;
     height: auto;
     display: block;
-    padding-top: 30px;
+    padding-top: 20px;
     margin: auto;
     opacity: 0.85;
     filter: alpha(opacity=85); /* For IE8 and earlier */
 }
 
 i {
-  padding-top: 20px;
+  padding-top: 60px;
   padding-left: 10px;
+  color: #E6E6E6;
 }
