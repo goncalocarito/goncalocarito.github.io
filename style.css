@@ -37,3 +37,7 @@ i {
   padding-left: 10px;
   color: #E6E6E6;
 }
+
+.img-circle {
+    border-radius: 50%;
+}
