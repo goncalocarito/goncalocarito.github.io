@@ -6,6 +6,9 @@ text-align: center;
 
 body {
     background-color: #04B4AE;
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
 
 .outer {
