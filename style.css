@@ -7,8 +7,13 @@ text-align: center;
 body {
     background-color: #04B4AE;
     background-image: url("background.png");
-    background-repeat: no-repeat;
-    background-size: 100% auto;
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center center;
+    background-attachment: fixed;
 }
 
 .outer {
