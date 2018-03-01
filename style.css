@@ -31,13 +31,17 @@ h2 {
 }
 
 img {
-  max-width: 20%;
+    max-width: 20%; 
     height: auto;
     display: block;
     padding-top: 20px;
     margin: auto;
     opacity: 0.85;
     filter: alpha(opacity=85); /* For IE8 and earlier */
+}
+
+@media screen and (orientation: portrait) {
+  img { max-width: 50%; }
 }
 
 i {
@@ -49,3 +53,4 @@ i {
 .img-circle {
     border-radius: 50%;
 }
+
